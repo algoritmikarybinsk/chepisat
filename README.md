@@ -1,14 +1,12 @@
 # chepisat
 <html>
-    <img src="https://mars.algoritmika.org/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
-    <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0">История</a>
-    <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа боевых искусств</h1>
-    <img src="https://mars.algoritmika.org/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png" height="150"/>
-    <p style="font-size:20px">Приглашаем освоить любой из видов рукопашного боя, который вам по душе. У нас представлены: традиционный рукопашный бой, тайский бокс, Джиу-Джитсу, карате и многое другое. Занятия ведут профессиональные тренеры в группах разного уровня.</p>
-    <img src="https://mars.algoritmika.org/uploads/2020/10/karate-4575114_640_0_1602523338.png" height="230px"/><img src="https://mars.algoritmika.org/uploads/2020/10/punching-bag_0_1602525500.png" height="230px"/><img src="https://mars.algoritmika.org/uploads/2020/10/boxing-ring_0_1602525156.png" height="230px"/>
-  <footer style="background-color:black;color:white;">
-<p style="font-size:15px">
- Адрес: город Спортивный, ул.Здоровья, 15.</p>
-    <p>Тел.:596-457</p>
-    </footer>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fchpic.su%2Fru%2Fstickers%2FMadasama%2F&psig=AOvVaw2-_VrogZeIXT7mkIhwRHo1&ust=1638107104051000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDU8NPWuPQCFQAAAAAdAAAAABAI" height="30px"/><a href="http://madara6.tilda.ws">Загляни)</a>
+    <h1 style="text-align:center; color:red;background-color:black;font-size:50px">PHONK</h1>
+    <h1 style="text-align:center;background-color:black; color:red">Для тебя!</h1>
+    <p>kslv-<a href="https://music.yandex.ru/album/16402618/track/85740709">Disaster</a>
+.</p>
+    <p style="text-align:center; color:dark">если тебе нужен тяжелый фонк,то это для тебя <a href="https://music.yandex.ru/artist/9141330">MC ORSEN</a></p>
+    <p>PRXSXNT FXTURE-<a href="https://music.yandex.ru/artist/11930666">any doe и другие</a>.</p>
+    
+    <p>Больше на-<a href="http://madara6.tilda.ws/phonkedmrk">Тут больше)</a> </p>
 </html>
